@@ -7,7 +7,7 @@ Deployed on **AWS EC2** with **Docker** for high availability and scalability.
 
 ---
 
-##  Features
+##  Features 
 -  Real-time inventory and order management  
 -  Machine Learning model for 7-day demand forecasting  
 -  Cloud deployment on AWS EC2 with Docker
